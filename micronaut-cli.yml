@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.github.axdotl
+---
+testFramework: junit
+sourceLanguage: java
